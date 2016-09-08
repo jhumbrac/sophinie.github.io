@@ -1,0 +1,33 @@
+body {
+  text-align: left;
+  background-color: #FDDD31;
+  color: #212767;
+  font-family: 'Hind', sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-size: 75px;
+	line-height: 75px;
+	margin-top: 1.0em;
+    margin-bottom: -0.3em;
+}
+
+h2 {
+	text-align: center;
+	line-height: 40px;
+	font-weight: 400;
+	
+}
+
+a {
+	color: #212767;
+}
+
+#summary {
+	text-align: left;
+	width: 700px;
+    float: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
