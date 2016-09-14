@@ -1,33 +1,33 @@
-body {
-  text-align: left;
-  background-color: #FDDD31;
-  color: #212767;
-  font-family: 'Hind', sans-serif;
+body{
+    font-family: 'Hind', sans-serif;
+    background:#FDDD31;
+    color:#212767;
+}
+header{
+    background:#FDDD31;
+    color:#212767;
+    text-align:center;
+    padding:20px 0;
 }
 
-h1 {
-	text-align: center;
-	font-size: 75px;
-	line-height: 75px;
-	margin-top: 1.0em;
-    margin-bottom: -0.3em;
+nav a{
+    color:#212767;
+    text-decoration:none;
+    margin:50px;
 }
 
-h2 {
-	text-align: center;
-	line-height: 40px;
-	font-weight: 400;
-	
+
+#hero{
+  background:url('https://raw.githubusercontent.com/sophinie/sophinie.github.io/master/unit_3/images/spam-musubi.png') no-repeat center center scroll #FDDD31;
+/*     background-size:cover; */
+    height:500px;
 }
 
-a {
-	color: #212767;
+#contact{
+    
 }
 
-#summary {
-	text-align: left;
-	width: 700px;
-    float: center;
-    margin-left: 20px;
-    margin-right: 20px;
+#section{
+    display: inline-block;
+
 }
