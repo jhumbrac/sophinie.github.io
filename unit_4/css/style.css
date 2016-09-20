@@ -23,11 +23,6 @@ nav a{
     height:500px;
 }
 
-#contact{
-    
-}
-
-#section{
-    display: inline-block;
-
+a {
+    color: #212767;
 }

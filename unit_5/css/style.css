@@ -1,0 +1,79 @@
+body{
+    font-family: 'Hind', sans-serif;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a{
+    color: black;
+    display: inline-block;
+    padding:5px 20px;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.wrapper {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+a{
+    color: black;
+}
+
+#hero{
+    height: 600px;
+    background-image: url(https://raw.githubusercontent.com/sophinie/sophinie.github.io/master/unit_3/images/spam-musubi.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0 auto;
+
+}
+
+.musubi-section{
+    float:left;
+}
+
+#one{
+    padding: 20px;
+
+}
+
+.bottom-section{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
